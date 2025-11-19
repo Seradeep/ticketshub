@@ -1,0 +1,7 @@
+# robots.txt for TICKETSHUB
+# Replace https://your-domain.com with your production domain before deploying
+User-agent: *
+Allow: /
+
+Sitemap: https://your-domain.com/sitemap.xml
+Host: https://your-domain.com
